@@ -53,6 +53,6 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/User-xn-dev/User-xn-dev/output/snake.svg" alt="Snake animation" />
+<img src="https://raw.githubusercontent.com/User-x-dev/User-x-dev/output/snake.svg" alt="Snake animation" />
 
 ###
