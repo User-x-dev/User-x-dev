@@ -53,8 +53,6 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/User-x-dev/User-x-dev/output/snake.svg" alt="Snake animation" />
-
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/User-x-dev/User-x-dev/output/pacman-contribution-graph-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/User-x-dev/User-x-dev/output/pacman-contribution-graph.svg">
