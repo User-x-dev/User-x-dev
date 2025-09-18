@@ -59,4 +59,5 @@
   <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/User-x-dev/User-x-dev/output/pacman-contribution-graph.svg">
 </picture>
 
-###
+## Discord
+[![Discord Presence](https://lanyard.cnrad.dev/api/1024297429127933952?theme=light&idleMessage=Just%20Chilling.&showDisplayName=true&hideStatus=true)](https://discord.com/users/1024297429127933952)
