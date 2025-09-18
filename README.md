@@ -16,7 +16,7 @@
     <img src="https://cdn.discordapp.com/emojis/1417291153279156254.png" width="48" height="44" alt="dev logo"  />
   </a>
 </div>
-
+[![Discord Presence](https://lanyard.cnrad.dev/api/1349828594863702129?showDisplayName=true&hideDecoration=true&hideActivity=true)](https://discord.com/users/1349828594863702129)
 <h2 align="left"></h2>
 
 <div align="left">
