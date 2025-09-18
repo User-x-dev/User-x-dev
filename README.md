@@ -60,4 +60,4 @@
 </picture>
 
 ## Discord
-[![Discord Presence](https://lanyard.cnrad.dev/api/1024297429127933952?theme=light&idleMessage=Just%20Chilling.&showDisplayName=true&hideStatus=true)](https://discord.com/users/1024297429127933952)
+[![Discord Presence](https://lanyard.cnrad.dev/api/1349828594863702129?theme=light&idleMessage=Just%20Chilling.&showDisplayName=true&hideStatus=true)](https://discord.com/users/1349828594863702129)
