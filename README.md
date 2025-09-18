@@ -58,6 +58,3 @@
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/User-x-dev/User-x-dev/output/pacman-contribution-graph.svg">
   <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/User-x-dev/User-x-dev/output/pacman-contribution-graph.svg">
 </picture>
-
-## Discord
-[![Discord Presence](https://lanyard.cnrad.dev/api/1349828594863702129?showDisplayName=true&borderRadius=10px&bg=1A1C1F&idleMessage=Coding%20...&theme=dark&ignoreAppId=1413496569617190912)](https://discord.com/users/1349828594863702129)
