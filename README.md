@@ -13,7 +13,7 @@
 <div align="left">
   <a href="https://git.io/typing-svg" target="_blank" rel="noopener noreferrer">
     <img
-      src="https://readme-typing-svg.demolab.com?font=Inconsolata&weight=800&pause=5000&color=b37f25&center=false&vCenter=true&width=535&lines=My+Discord+Account"
+      src="https://readme-typing-svg.demolab.com?font=Inconsolata&weight=800&pause=500&color=b37f25&center=false&vCenter=true&width=535&lines=My+Discord+Account"
       alt="User x typing"
       style="border-radius: 20px; box-shadow: 0 0 25px rgba(142, 76, 247, 0.7);"
     />
