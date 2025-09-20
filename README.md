@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="./name.svg" />
+  <img src=".github/workflows/name.svg" />
 </div>
 
 <h2 align="left"></h2>
