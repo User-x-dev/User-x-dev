@@ -4,18 +4,6 @@
 
 <h2 align="left"></h2>
 
-<div align="center">
-  <a href="https://git.io/typing-svg" target="_blank" rel="noopener noreferrer">
-    <img
-      src="https://readme-typing-svg.demolab.com?font=Inconsolata&weight=800&pause=1000&color=b37f25&center=true&vCenter=true&width=535&lines=Dev+Bot+Discord+And+Web+Site"
-      alt="User x typing"
-      style="border-radius: 22px; box-shadow: 0 0 25px rgba(142, 76, 247, 0.7);"
-    />
-  </a>
-</div>
-
-<h2 align="left"></h2>
-
 <div align="left">
   <a href="https://git.io/typing-svg" target="_blank" rel="noopener noreferrer">
     <img
