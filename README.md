@@ -2,6 +2,8 @@
   <img src="./name.svg" />
 </div>
 
+<h2 align="left"></h2>
+
 <div align="center">
   <a href="https://git.io/typing-svg" target="_blank" rel="noopener noreferrer">
     <img
