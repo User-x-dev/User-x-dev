@@ -1,4 +1,8 @@
 <div align="center">
+  <img src="./name.svg" />
+</div>
+
+<div align="center">
   <a href="https://git.io/typing-svg" target="_blank" rel="noopener noreferrer">
     <img
       src="https://readme-typing-svg.demolab.com?font=Inconsolata&weight=800&pause=1000&color=b37f25&center=true&vCenter=true&width=535&lines=Hello+there.+I'm+User-xn-dev+<3"
