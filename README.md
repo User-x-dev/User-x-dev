@@ -2,6 +2,10 @@
   <img src=".github/workflows/name.svg" />
 </div>
 
+<div align="left">
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=User-x-dev.User-x-dev&left_color=darkgoldenrod&right_color=darkgoldenrod&left_text=%20"  />
+</div>
+
 <h2 align="left"></h2>
 
 <div align="left">
