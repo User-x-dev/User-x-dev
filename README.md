@@ -6,6 +6,12 @@
   <img src="https://visitor-badge.laobi.icu/badge?page_id=User-x-dev.User-x-dev&left_color=darkgoldenrod&right_color=darkgoldenrod&left_text=%20"  />
 </div>
 
+![StandWithPalestine](https://raw.githubusercontent.com/Safouene1/support-palestine-banner/master/StandWithPalestine.svg)
+
+<div align="left" style="display: inline-block; background-image: url('https://raw.githubusercontent.com/Safouene1/support-palestine-banner/master/StandWithPalestine.svg'); background-size: contain; width: 100px; height: 30px;">
+  <span style="position: absolute;">Your Text Here</span>
+</div>
+
 <h2 align="left"></h2>
 
 <div align="left">
