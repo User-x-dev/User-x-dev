@@ -1,11 +1,13 @@
-![StandWithPalestine](https://raw.githubusercontent.com/Safouene1/support-palestine-banner/master/StandWithPalestine.svg)
-
 <div align="center">
   <img src=".github/workflows/name.svg" />
 </div>
 
 <div align="center">
   <img src="https://visitor-badge.laobi.icu/badge?page_id=User-x-dev.User-x-dev&left_color=darkgoldenrod&right_color=darkgoldenrod&left_text=%20"  />
+</div>
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/Safouene1/support-palestine-banner/master/StandWithPalestine.svg"  />
 </div>
 
 <h2 align="left"></h2>
