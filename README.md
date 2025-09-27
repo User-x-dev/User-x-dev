@@ -5,7 +5,6 @@
 <div align="center">
   <img src="https://visitor-badge.laobi.icu/badge?page_id=User-x-dev.User-x-dev&left_color=darkgoldenrod&right_color=darkgoldenrod&left_text=%20"  />
   <a href="https://discord.com/users/1349828594863702129"><img src="https://raw.githubusercontent.com/Safouene1/support-palestine-banner/master/StandWithPalestine.svg"  />
-  <img src="https://github-widgetbox.vercel.app/api/profile?username=User-x-dev&data=followers,repositories,stars,commits&theme=darkmode"  />
 </div>
 
 <h2 align="left"></h2>
@@ -23,6 +22,23 @@
 <div align="center">
 <a href="https://discord.com/users/1349828594863702129"><img src="https://lanyard.cnrad.dev/api/1349828594863702129?showDisplayName=true&hideDecoration=true&idleMessage=Coding...&theme=dark" /></a>
 </div>
+
+<h2 align="left"></h2>
+
+<div align="left">
+  <a href="https://git.io/typing-svg" target="_blank" rel="noopener noreferrer">
+    <img
+      src="https://readme-typing-svg.demolab.com?font=Inconsolata&weight=800&pause=1000&color=b37f25&center=false&vCenter=false&width=535&lines=GitHub+Stats"
+      alt="GitHub Stats"
+      style="border-radius: 20px; box-shadow: 0 0 25px rgba(142, 76, 247, 0.7);"
+    />
+  </a>
+</div>
+
+<div align="center">
+<a href="https://discord.com/users/1349828594863702129"><img src="https://github-widgetbox.vercel.app/api/profile?username=User-x-dev&data=followers,repositories,stars,commits&theme=darkmode" /></a>
+</div>
+
 <h2 align="left"></h2>
 
 <div align="left">
