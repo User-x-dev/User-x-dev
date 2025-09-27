@@ -36,7 +36,7 @@
 </div>
 
 <div align="center">
-<a href="https://discord.com/users/1349828594863702129"><img src="https://github-widgetbox.vercel.app/api/profile?username=User-x-dev&data=followers,repositories,stars,commits&theme=darkmode" /></a>
+<img src="https://github-widgetbox.vercel.app/api/profile?username=User-x-dev&data=followers,repositories,stars,commits&theme=darkmode" /></a>
 </div>
 
 <h2 align="left"></h2>
