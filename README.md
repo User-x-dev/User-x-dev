@@ -80,3 +80,7 @@
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/User-x-dev/User-x-dev/output/pacman-contribution-graph.svg">
   <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/User-x-dev/User-x-dev/output/pacman-contribution-graph.svg">
 </picture>
+
+<h2 align="left"></h2>
+
+<iframe src="https://discord.com/widget?id=1357576892978561055&theme=dark" width="350" height="500" allowtransparency="true" frameborder="0" sandbox="allow-popups allow-popups-to-escape-sandbox allow-same-origin allow-scripts"></iframe>
