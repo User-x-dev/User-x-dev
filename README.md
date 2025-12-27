@@ -23,6 +23,20 @@
 <a href="https://discord.com/users/1349828594863702129"><img src="https://lanyard.cnrad.dev/api/1349828594863702129?showDisplayName=true&idleMessage=Coding...&theme=dark" /></a>
 </div>
 
+<div align="left">
+  <a href="https://git.io/typing-svg" target="_blank" rel="noopener noreferrer">
+    <img
+      src="https://readme-typing-svg.demolab.com?font=Inconsolata&weight=800&pause=1000&color=b37f25&center=false&vCenter=false&width=535&lines=My+Server+Discord"
+      alt="User x typing"
+      style="border-radius: 20px; box-shadow: 0 0 25px rgba(142, 76, 247, 0.7);"
+    />
+  </a>
+</div>
+
+<div align="center">
+<a href="https://discord.com/users/1349828594863702129"><img src="https://lanyard.cnrad.dev/api/1349828594863702129?showDisplayName=true&idleMessage=Coding...&theme=dark" /></a>
+</div>
+
 <h2 align="left"></h2>
 
 <div align="left">
