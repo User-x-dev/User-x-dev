@@ -34,7 +34,7 @@
 </div>
 
 <div align="center">
-<iframe src="https://discord.com/widget?id=1403906966363045928&theme=dark" width="350" height="500" allowtransparency="true" frameborder="0" sandbox="allow-popups allow-popups-to-escape-sandbox allow-same-origin allow-scripts"></iframe>
+<a href="https://discord.com/users/1349828594863702129"><img src="https://discord.com/widget?id=1403906966363045928&theme=dark" /></a>
 </div>
 
 <h2 align="left"></h2>
