@@ -19,8 +19,12 @@
   </a>
 </div>
 
-<div align="center">
+<div align="right">
 <a href="https://discord.com/users/1374366800229306428"><img src="https://lanyard.cnrad.dev/api/1374366800229306428?showDisplayName=true&idleMessage=Coding...&theme=dark" /></a>
+</div>
+
+<div align="left">
+<a href="https://discord.com/users/1352078438323978363"><img src="https://lanyard.cnrad.dev/api/1352078438323978363?showDisplayName=true&idleMessage=Coding...&theme=dark" /></a>
 </div>
 
 <h2 align="left"></h2>
