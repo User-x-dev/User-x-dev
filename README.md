@@ -1,7 +1,6 @@
 <div align="center">
   <img src=".github/workflows/name.svg" />
 </div>
-<a href="https://app.daily.dev/userx45"><img src="https://api.daily.dev/devcards/v2/rrjywtg5GEkNr3UJv7puk.png?r=oyh&type=wide" width="652" alt="User.x's Dev Card"/></a>
 <div align="center">
   <img src="https://visitor-badge.laobi.icu/badge?page_id=User-x-dev.User-x-dev&left_color=darkgoldenrod&right_color=darkgoldenrod&left_text=visitors%20"  />
   <a href="https://discord.com/users/1349828594863702129"><img src="https://raw.githubusercontent.com/Safouene1/support-palestine-banner/master/StandWithPalestine.svg"  />
