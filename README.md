@@ -14,8 +14,11 @@
       style="border-radius: 20px; box-shadow: 0 0 25px rgba(142, 76, 247, 0.7);"
     />
   </a>
-<iframe data-testid="embed-iframe" style="border-radius:12px" src="https://open.spotify.com/embed/playlist/6XP7JRLQXWKwVzwAbMBrWK?utm_source=generator" width="70%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
-
+  <img
+      src="https://open.spotify.com/embed/playlist/6XP7JRLQXWKwVzwAbMBrWK?utm_source=generator" width="70%" height="352"
+      alt="User x typing"
+      style="border-radius: 20px; box-shadow: 0 0 25px rgba(142, 76, 247, 0.7);"
+    />
 <h2 align="left"></h2>
 <div align="left">
   <a href="https://git.io/typing-svg" target="_blank" rel="noopener noreferrer">
