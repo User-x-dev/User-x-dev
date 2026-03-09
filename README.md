@@ -15,7 +15,7 @@
     />
   </a>
   <img
-      src="https://open.spotify.com/embed/playlist/6XP7JRLQXWKwVzwAbMBrWK?utm_source=generator&weight=800&height=352"
+      src="https://open.spotify.com/embed/playlist/6XP7JRLQXWKwVzwAbMBrWK?utm_source=generator"
     />
 <h2 align="left"></h2>
 <div align="left">
