@@ -17,46 +17,12 @@
 </div>
 
 <div align="center">
-<a href="https://discord.com/users/1352078438323978363"><img src="https://lanyard.cnrad.dev/api/1352078438323978363?showDisplayName=true&idleMessage=Coding...&theme=dark" /></a>
+<a href="https://discord.com/users/1352078438323978363"><a href="https://discord.com/users/1352078438323978363"><img src="https://lanyard.cnrad.dev/api/1352078438323978363?theme=dark&bg=070f1c&idleMessage=Coding..." /></a>s</a>
 <a href="https://discord.com/users/1374366800229306428"><img src="https://lanyard.cnrad.dev/api/1374366800229306428?showDisplayName=true&idleMessage=AFK&theme=dark" /></a>
 </div>
 
 <h2 align="left"></h2>
- </section></div><footer style="background: rgba(0, 0, 0, 0.7); color: white; padding: 30px; text-align: center; font-family: 'Orbitron', sans-serif; font-size: 16px; margin-top: 40px; border-top: 2px solid #8e44ad;">
-  <!-- Discord Widget Section -->
-<section id="discord-widget" 
-         style="padding:60px 0; 
-                background: rgba(255, 255, 255, 0.05); 
-                backdrop-filter: blur(6px); 
-                text-align:center; 
-                border-top: 2px solid #8e44ad; 
-                border-bottom: 2px solid #8e44ad;">
-  <div class="container">
-    <h2 class="section-title" 
-        style="color:#fff; 
-               font-family: 'Orbitron', sans-serif; 
-               font-size: 32px; 
-               margin-bottom: 10px;">
-      🎶 Join Our Discord
-    </h2>
-    <p class="section-description" 
-       style="color:#bbb; 
-              font-size: 16px; 
-              margin-bottom: 25px;">
-      Chat, get support, and enjoy music together!
-    </p>
-    <iframe 
-      src="https://discord.com/widget?id=1363548442449674482&theme=dark" 
-      width="350" 
-      height="500" 
-      allowtransparency="true" 
-      frameborder="0" 
-      sandbox="allow-popups allow-popups-to-escape-sandbox allow-same-origin allow-scripts"
-      style="border-radius:12px; 
-             box-shadow:0 0 20px rgba(142, 68, 173, 0.6);">
-    </iframe>
-  </div>
-</section>
+
 <div align="left">
   <a href="https://git.io/typing-svg" target="_blank" rel="noopener noreferrer">
     <img
