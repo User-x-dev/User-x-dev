@@ -17,13 +17,13 @@
 </div>
 
 <div align="center">
-<a href="https://discord.com/users/1352078438323978363"><a href="https://discord.com/users/1352078438323978363"><img src="https://lanyard.cnrad.dev/api/1352078438323978363?theme=dark&bg=070f1c" /></a></a>
+<a href="https://discord.com/users/1352078438323978363"><a href="https://discord.com/users/1352078438323978363"><img src="https://lanyard.cnrad.dev/api/1352078438323978363?theme=dark&bg=070f1c&idleMessage=Coding..." /></a></a>
 <a href="https://discord.com/users/1374366800229306428"><img src="https://lanyard.cnrad.dev/api/1374366800229306428?showDisplayName=true&idleMessage=AFK&theme=dark" /></a>
 </div>
 
 <h2 align="left"></h2>
 <div align="center">
-<a href="https://discord.com/users/1485734480751886566"><a href="https://discord.com/users/1485734480751886566"><img src="https://lanyard.cnrad.dev/api/1485734480751886566?theme=light&idleMessage=Coding..." /></a>
+<a href="https://discord.com/users/1485734480751886566"><a href="https://discord.com/users/1485734480751886566"><img src="https://lanyard.cnrad.dev/api/1485734480751886566?theme=light" /></a>
 </div>
 <h2 align="left"></h2>
 
